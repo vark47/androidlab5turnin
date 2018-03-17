@@ -1,0 +1,16 @@
+Pig.GameFragment, Pig;md5c870ba7c4aed6904b78090e421d0358f.GameFragment
+Pig.GameFragment, Pig, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5c870ba7c4aed6904b78090e421d0358f.GameFragment
+Pig.GameFragment;md5c870ba7c4aed6904b78090e421d0358f.GameFragment
+pig.GameFragment;md5c870ba7c4aed6904b78090e421d0358f.GameFragment
+Pig.MainActivity, Pig;md5c870ba7c4aed6904b78090e421d0358f.MainActivity
+Pig.MainActivity, Pig, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5c870ba7c4aed6904b78090e421d0358f.MainActivity
+Pig.MainActivity;md5c870ba7c4aed6904b78090e421d0358f.MainActivity
+pig.MainActivity;md5c870ba7c4aed6904b78090e421d0358f.MainActivity
+Pig.MenuFragment, Pig;md5c870ba7c4aed6904b78090e421d0358f.MenuFragment
+Pig.MenuFragment, Pig, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5c870ba7c4aed6904b78090e421d0358f.MenuFragment
+Pig.MenuFragment;md5c870ba7c4aed6904b78090e421d0358f.MenuFragment
+pig.MenuFragment;md5c870ba7c4aed6904b78090e421d0358f.MenuFragment
+Pig.PigActivity, Pig;md5c870ba7c4aed6904b78090e421d0358f.PigActivity
+Pig.PigActivity, Pig, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5c870ba7c4aed6904b78090e421d0358f.PigActivity
+Pig.PigActivity;md5c870ba7c4aed6904b78090e421d0358f.PigActivity
+pig.PigActivity;md5c870ba7c4aed6904b78090e421d0358f.PigActivity

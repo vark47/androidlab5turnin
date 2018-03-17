@@ -1,0 +1,1 @@
+<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent" xmlns:android="http://schemas.android.com/apk/res/android"><fragment class="md5e457ed300607a63c58fb7423b6ae265b.TitlesFragment" android:id="@+id/titles_fragment" android:layout_width="fill_parent" android:layout_height="fill_parent" /></LinearLayout>

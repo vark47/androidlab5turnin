@@ -1,0 +1,16 @@
+com.xamarin.sample.fragments.honeycomb.MainActivity, fragmentsample;md5e457ed300607a63c58fb7423b6ae265b.MainActivity
+com.xamarin.sample.fragments.honeycomb.MainActivity, fragmentsample, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e457ed300607a63c58fb7423b6ae265b.MainActivity
+com.xamarin.sample.fragments.honeycomb.MainActivity;md5e457ed300607a63c58fb7423b6ae265b.MainActivity
+com.xamarin.sample.fragments.honeycomb.MainActivity;md5e457ed300607a63c58fb7423b6ae265b.MainActivity
+com.xamarin.sample.fragments.honeycomb.DetailsActivity, fragmentsample;md5e457ed300607a63c58fb7423b6ae265b.DetailsActivity
+com.xamarin.sample.fragments.honeycomb.DetailsActivity, fragmentsample, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e457ed300607a63c58fb7423b6ae265b.DetailsActivity
+com.xamarin.sample.fragments.honeycomb.DetailsActivity;md5e457ed300607a63c58fb7423b6ae265b.DetailsActivity
+com.xamarin.sample.fragments.honeycomb.DetailsActivity;md5e457ed300607a63c58fb7423b6ae265b.DetailsActivity
+com.xamarin.sample.fragments.honeycomb.DetailsFragment, fragmentsample;md5e457ed300607a63c58fb7423b6ae265b.DetailsFragment
+com.xamarin.sample.fragments.honeycomb.DetailsFragment, fragmentsample, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e457ed300607a63c58fb7423b6ae265b.DetailsFragment
+com.xamarin.sample.fragments.honeycomb.DetailsFragment;md5e457ed300607a63c58fb7423b6ae265b.DetailsFragment
+com.xamarin.sample.fragments.honeycomb.DetailsFragment;md5e457ed300607a63c58fb7423b6ae265b.DetailsFragment
+com.xamarin.sample.fragments.honeycomb.TitlesFragment, fragmentsample;md5e457ed300607a63c58fb7423b6ae265b.TitlesFragment
+com.xamarin.sample.fragments.honeycomb.TitlesFragment, fragmentsample, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e457ed300607a63c58fb7423b6ae265b.TitlesFragment
+com.xamarin.sample.fragments.honeycomb.TitlesFragment;md5e457ed300607a63c58fb7423b6ae265b.TitlesFragment
+com.xamarin.sample.fragments.honeycomb.TitlesFragment;md5e457ed300607a63c58fb7423b6ae265b.TitlesFragment
